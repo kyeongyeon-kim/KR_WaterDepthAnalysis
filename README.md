@@ -1,4 +1,4 @@
-# KR_WaterDepthAnalysis
+# KR_WaterDepthAnalysis(업데이트 중)
 R을 활용한 대한민국 동해, 서해, 남해 수심 데이터 시각화
 
 <h2>🌎︎ 출처 : GEBCO, JOISS(관할해역해양정보 공동활용시스템</h2><br><br>
