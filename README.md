@@ -25,6 +25,10 @@ R을 활용한 대한민국 동해, 서해, 남해 수심 데이터 시각화
 - 외부 데이터 활용
 - 데이터 시각화(plot)
 
+<strong>📚 분석결과</strong>
+- 동해안 : 해안선이 단조롭고, 한 구간에서 수심이 깊은 급경사를 이룬다.
+- 남해안 : 해안선은 복잡한 리아스식 해안이며, 지형의 경사가 완만하다.
+- 서해안 : 해안선이 복잡하고 수심이 얕다. 서해 전체가 하나의 큰 만을 이루고 있기 때문에 조수의 차가 크다.<br><br>
 <strong>📺 결과물 보기</strong><br><br>
 <img align = "center" width="80%" src="https://user-images.githubusercontent.com/115720940/230523609-29c2b769-0eee-47b6-8a69-b367ff2238b7.png"/>
 <p align = "center">Southsea<p/><br><br>
