@@ -30,6 +30,6 @@ R을 활용한 대한민국 동해, 서해, 남해 수심 데이터 시각화
 <p align = "center">Southsea<p/><br><br>
 <img align = "center" width="80%" src="https://user-images.githubusercontent.com/115720940/230524613-81bd14b7-67b9-4750-9798-ab7ffb254122.png"/>
 <p align = "center">Westsea<p/><br><br>
-<img align = "center" width="80%" src="("https://user-images.githubusercontent.com/115720940/230524772-8c2af870-789d-48b4-807e-340ee74c29cd.png"/>
+<img align = "center" width="80%" src="https://user-images.githubusercontent.com/115720940/230524772-8c2af870-789d-48b4-807e-340ee74c29cd.png"/>
 <p align = "center">Eastsea<p/><br><br>
 
