@@ -1,7 +1,7 @@
 # KR_WaterDepthAnalysis
 R을 활용한 대한민국 동해, 서해, 남해 수심 데이터 시각화
 
-<h2><a href="http://fgszhufdz.cafe24.com/">🌎︎ 출처 : https://www.gebco.net/, JOISS(관할해역해양정보 공동활용시스템</a></h2><br><br>
+<h2>🌎︎ 출처 : https://www.gebco.net/, JOISS(관할해역해양정보 공동활용시스템</h2><br><br>
 
 <br>
 <strong>👩🏻‍💻 팀구성</strong>
@@ -25,4 +25,6 @@ R을 활용한 대한민국 동해, 서해, 남해 수심 데이터 시각화
 - 외부 데이터 활용
 - 데이터 시각화(plot)
 
-<strong>📺 결과물 보기</strong>
+<strong>📺 결과물 보기</strong><br><br>
+<img width="80%" src="https://user-images.githubusercontent.com/115720940/230523609-29c2b769-0eee-47b6-8a69-b367ff2238b7.png"/>
+<p>Southsea<p/>
